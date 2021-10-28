@@ -1,0 +1,9 @@
+
+COURS DEV WEB:
+
+W3C= world wide web consortium
+
+HTML
+
+Importance du h1 permet de savoir le titre de plus importance de notre page et plus on avance dans les "h" moins c'est important 
+

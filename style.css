@@ -1,0 +1,20 @@
+
+.svgconteneur { background: orange; width: 500px; border-radius: 20px; border: 1px solid red;}
+
+.svgconteneur > svg > g > path {fill: aquamarine; stroke: rgba(226, 230, 26, 0.918);}
+
+.svgconteneur > svg > g > path:hover {fill:chocolate}
+
+#fede-bfc, #fede-bre-1, #fede-bre-2, #fede-nor, #fede-idf {fill: red;}
+
+a {display: block;}
+
+p {display: block;}
+
+section {display: inline-block}
+
+aside{background: yellow;}
+
+form {background: #cccc;padding: 5px;}
+
+p.baha{background: teal;padding: 10px;display: inline-block; }
